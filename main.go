@@ -9,5 +9,6 @@ func main() {
 	// test 1
 	// test 2
 	time.Sleep(1 * time.Second)
-	fmt.Println("Hello, World!")
+	fmt.Println
+	("Hello, World!")
 }
